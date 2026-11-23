@@ -1,7 +1,8 @@
 # cbBTC EMA trend bot
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun)
-[![make.fun bounty](https://make.fun/bounty-badge.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511)
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/Brilliancoder/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/Brilliancoder/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
 
 Entry for the make.fun bounty **btc-race-24h-20261123-0511**: trades cbBTC/USDC on 1-minute bars
 (agent-fun/bars-replay/v1), long only, from 1,000 USDC paper money.
