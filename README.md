@@ -17,4 +17,7 @@ Run: `python3 -P -s main.py` (standard library only; `vendor/makefun_bars.py` is
 
 Local dev grade: net PnL +7.42 USDC, max drawdown 3.2%, 11 trades.
 
+Variation tested: trail 0.02 (fast 30, slow 120 unchanged) graded +5.73 USDC, max drawdown 3.3%, 9 trades
+(+1.74 at 2x fees vs +2.63). The wider stop gives back more of each move before exiting, so trail 0.015 was kept.
+
 License: MIT.
